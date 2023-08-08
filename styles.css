@@ -10957,7 +10957,9 @@ a:focus-visible {
   font-size: 180%;
 } 
 .icon-container {
-  display: flex; /* Utilisez Flexbox pour gérer l'espace entre les icônes */
-  gap: 20px; /* Ajustez cet espace selon vos préférences */
+  display: inline-flex; /* Utilisez Flexbox pour gérer l'espace entre les icônes */
+  gap: 15px; /* Ajustez cet espace selon vos préférences */
   align-items: center; /* Alignez les icônes verticalement */
+  font-size: 112%;
+  
 }
