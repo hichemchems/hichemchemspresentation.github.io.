@@ -598,14 +598,14 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 25%;
   height: auto;
 }
 
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 1px solid var(--bs-border-color);
+  border: 2px solid var(--bs-border-color);
   border-radius: 0.375rem;
   max-width: 100%;
   height: auto;
